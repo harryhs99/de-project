@@ -104,11 +104,11 @@ Required components for the project include:
 
 ## Team Members
 
-Harry Hainsworth-Staples
-Valentine Gakunga
-Harley Cole
-David Luke
-Holly Salthouse
+Harry Hainsworth-Staples,
+Valentine Gakunga,
+Harley Cole,
+David Luke,
+Holly Salthouse,
 Amreet Singh Notay
 
 ## Conclusion
