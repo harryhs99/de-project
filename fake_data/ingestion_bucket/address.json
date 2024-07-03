@@ -1,0 +1,66 @@
+
+{
+    "data": [
+      {
+        "address_id": 1,
+        "address_line_1": "123 Main Street",
+        "address_line_2": null,
+        "district": "Central",
+        "city": "Metropolis",
+        "postal_code": "12345",
+        "country": "Wonderland",
+        "phone": "555-1234",
+        "created_at": "2023-08-03T12:34:56Z",
+        "last_updated": "2023-08-03T12:34:56Z"
+      },
+      {
+        "address_id": 2,
+        "address_line_1": "456 Elm Avenue",
+        "address_line_2": null,
+        "district": "North",
+        "city": "Fictionville",
+        "postal_code": "67890",
+        "country": "Fairyland",
+        "phone": "555-5678",
+        "created_at": "2023-08-03T12:34:56Z",
+        "last_updated": "2023-08-03T12:34:56Z"
+      },
+      {
+        "address_id": 3,
+        "address_line_1": "789 Oak Lane",
+        "address_line_2": null,
+        "district": "South",
+        "city": "Imagination City",
+        "postal_code": "13579",
+        "country": "Dreamland",
+        "phone": "555-9876",
+        "created_at": "2023-08-03T12:34:56Z",
+        "last_updated": "2023-08-03T12:34:56Z"
+      },
+      {
+        "address_id": 4,
+        "address_line_1": "246 Maple Street",
+        "address_line_2": null,
+        "district": "East",
+        "city": "Enchanted Town",
+        "postal_code": "97531",
+        "country": "Magicland",
+        "phone": "555-2468",
+        "created_at": "2023-08-03T12:34:56Z",
+        "last_updated": "2023-08-03T12:34:56Z"
+      },
+      {
+        "address_id": 5,
+        "address_line_1": "135 Pine Road",
+        "address_line_2": null,
+        "district": "West",
+        "city": "Whimsyville",
+        "postal_code": "86420",
+        "country": "Fantasyland",
+        "phone": "555-1357",
+        "created_at": "2023-08-03T12:34:56Z",
+        "last_updated": "2023-08-03T12:34:56Z"
+      }
+    ]
+  }
+  

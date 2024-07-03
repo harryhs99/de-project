@@ -1,0 +1,11 @@
+{"dim_counterparty":"null",
+"dim_currency":"null",
+"dim_date":"null",
+"dim_design":"null",
+"dim_location":"null",
+"dim_staff":"null",
+"dim_payment_type":"null",
+"dim_transaction":"null",
+"fact_sales_order":"null",
+"fact_purchase_order":"null",
+"fact_payment":"null"}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "department_id": 1,
+      "department_name": "Sales",
+      "location": "Gotham City",
+      "manager": "Bruce Wayne",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 2,
+      "department_name": "Purchasing",
+      "location": "Star City",
+      "manager": "Oliver Queen",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 3,
+      "department_name": "Production",
+      "location": "Wakanda",
+      "manager": "T'Challa",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 4,
+      "department_name": "Dispatch",
+      "location": "Asgard",
+      "manager": "Thor Odinson",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 5,
+      "department_name": "Finance",
+      "location": "Atlantis",
+      "manager": "Arthur Curry",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 6,
+      "department_name": "Facilities",
+      "location": "Xanadu",
+      "manager": "Charles Foster Kane",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 7,
+      "department_name": "Communications",
+      "location": "Hogwarts",
+      "manager": "Albus Dumbledore",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    },
+    {
+      "department_id": 8,
+      "department_name": "HR",
+      "location": "Emerald City",
+      "manager": "Dorothy Gale",
+      "created_at": "2023-08-03T12:34:56Z",
+      "last_updated": "2023-08-03T12:34:56Z"
+    }
+  ]
+}

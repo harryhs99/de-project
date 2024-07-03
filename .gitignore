@@ -1,0 +1,8 @@
+venv
+**/*.pyc
+**/.vscode
+**/*_cache
+**/*pycache
+.env
+.coverage
+copy_warehouse.py

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "transaction_id": 1,
+      "transaction_type": "SALE",
+      "sales_order_id": 1,
+      "purchase_order_id": null,
+      "created_at": "2022-11-03, 14:20:52:186000",
+      "last_updated": "2022-11-03, 14:20:52:186000"
+    },
+    {
+      "transaction_id": 2,
+      "transaction_type": "PURCHASE",
+      "sales_order_id": null,
+      "purchase_order_id": 2,
+      "created_at": "2022-11-03, 14:20:52:187000",
+      "last_updated": "2022-11-03, 14:20:52:187000"
+    },
+    {
+      "transaction_id": 3,
+      "transaction_type": "SALE",
+      "sales_order_id": 3,
+      "purchase_order_id": null,
+      "created_at": "2022-11-03, 14:20:52:188000",
+      "last_updated": "2022-11-03, 14:20:52:188000"
+    },
+    {
+      "transaction_id": 4,
+      "transaction_type": "PURCHASE",
+      "sales_order_id": null,
+      "purchase_order_id": 4,
+      "created_at": "2022-11-03, 14:20:52:189000",
+      "last_updated": "2022-11-03, 14:20:52:189000"
+    },
+    {
+      "transaction_id": 5,
+      "transaction_type": "SALE",
+      "sales_order_id": 5,
+      "purchase_order_id": null,
+      "created_at": "2022-11-03, 14:20:52:190000",
+      "last_updated": "2022-11-03, 14:20:52:190000"
+    },
+    {
+      "transaction_id": 6,
+      "transaction_type": "PURCHASE",
+      "sales_order_id": null,
+      "purchase_order_id": 6,
+      "created_at": "2022-11-03, 14:20:52:191000",
+      "last_updated": "2022-11-03, 14:20:52:191000"
+    },
+    {
+      "transaction_id": 7,
+      "transaction_type": "SALE",
+      "sales_order_id": 7,
+      "purchase_order_id": null,
+      "created_at": "2022-11-03, 14:20:52:192000",
+      "last_updated": "2022-11-03, 14:20:52:192000"
+    },
+    {
+      "transaction_id": 8,
+      "transaction_type": "PURCHASE",
+      "sales_order_id": null,
+      "purchase_order_id": 8,
+      "created_at": "2022-11-03, 14:20:52:193000",
+      "last_updated": "2022-11-03, 14:20:52:193000"
+    },
+    {
+      "transaction_id": 9,
+      "transaction_type": "SALE",
+      "sales_order_id": 9,
+      "purchase_order_id": null,
+      "created_at": "2022-11-03, 14:20:52:194000",
+      "last_updated": "2022-11-03, 14:20:52:194000"
+    },
+    {
+      "transaction_id": 10,
+      "transaction_type": "PURCHASE",
+      "sales_order_id": null,
+      "purchase_order_id": 10,
+      "created_at": "2022-11-03, 14:20:52:195000",
+      "last_updated": "2022-11-03, 14:20:52:195000"
+    }
+  ]
+}
